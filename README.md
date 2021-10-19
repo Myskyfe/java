@@ -1,2 +1,2 @@
-# java
-Java labs
+# Labs of Matvii Yermakov
+Welcome dear rewriters!
